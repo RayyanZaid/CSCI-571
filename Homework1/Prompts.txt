@@ -1,0 +1,18 @@
+Prompt #1:
+Goal: I want you to output a complete webpage (containing HTML, CSS, JS). 
+Submission Format: My submission is 1 HTML file, so ensure everything necessary is on the HTML file. 
+Specifications: Your web page should display 5 paragraphs, in font sizes 10px, 12px, 15px, 20px, 30px. For content, they should all contain the text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..." Each paragraph should have a 10px solid border - the 5 border colors should be ordered by 'rainbow' . Pick from ##FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #9400D3
+
+
+
+Prompt #2:
+Goal: I want you to output a complete webpage (containing HTML, CSS) NO JS
+Submission Format: My submission is 1 HTML file, so ensure everything necessary is on the HTML file. 
+Specifications: Your page should display a slideshow, of 10 images, using only CSS (no JS). Edit the html to put in 10 images' links so that the page is functional (ie the slideshow is visible).
+
+
+
+Prompt #3:
+Goal: I want you to output a complete webpage (containing HTML, JS) NO CSS
+Submission Format: My submission is 1 HTML file, so ensure everything necessary is on the HTML file. 
+Specifications: Your page should display a slideshow, of 10 images, using only JS (no CSS). Edit the html to put in 10 images' links so that the page is functional (ie the slideshow is visible).
